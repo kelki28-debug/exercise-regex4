@@ -1,0 +1,8 @@
+.p{
+    background-image: linear-gradient(to right, rgb(202, 199, 199) ,rgb(41, 41, 241));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 20px;
+    text-transform: uppercase;
+}
